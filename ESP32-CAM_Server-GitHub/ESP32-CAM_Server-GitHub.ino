@@ -10,9 +10,9 @@
 #include "arduino.h"
 #include "JomjolGitESP32CAM-Server-Class.h"
 
-const char* ssid =     "SSID";
-const char* password = "PASSWORD";
-const char* host = "wasseruhr";
+const char* ssid =  "sala";
+const char* password = "wfgysf5657";
+const char* host = "192.168.1.77";
 
 #define LEDPin      2          // Pin für Steuerung LED-Leiste 
 #define INT_LED     33         // Interne LED zum Blinken bei WiFi-Connect at pin GPIO33 (ESP32-CAM).
